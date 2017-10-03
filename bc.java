@@ -72,9 +72,9 @@ package bitcalc;
 			//scanner.close();
 			
 			if (bit1 ==1)
-			{
+			
 				byte1 = 128;
-			}
+			
 			if (bit2 ==1)
 			{
 				byte2 = 64;
